@@ -1,0 +1,30 @@
+name: bounce!
+author: Samuel Johnston
+current version: 1.0
+
+about:
+
+I've been learning python from a book and thought it would be a good idea to test
+what I know so far. So I made this game. It was made in python2.7 and was created
+using pygame and livewires packages. The aim is to simply keep the ball from
+touching the floor.
+
+controls:
+
+a - moves left
+
+d - moves right
+
+esc - exit
+
+programs and additional software used:
+
+python 2.7
+
+paint.net
+
+pygame
+
+livewires package
+
+any questions or comments please contact me at samuelextra@gmail.com
